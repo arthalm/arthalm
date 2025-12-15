@@ -1,6 +1,6 @@
 ## <<<<<<<<<<<<<<<<<<<<<<arthalm's<<<profile<<<<<<<<<<<<<<<<<<<<<<
 
-**olá, meu nome é Arthur Almeida / hi, my name is Arthur Almeida**
+**olá, meu nome é Arthur Almeida! / hi, my name is Arthur Almeida!**
 
 ## 🔍sobre mim / about me
 
