@@ -4,7 +4,7 @@
 
 ## 🔍sobre mim / about me
 
-🤓 - sou um estudante brasileiro de 20 anos da área de tecnologia / i'm a 20 year old brazillian student of the tech field
+🤓 - sou um estudante brasileiro de 21 anos da área de tecnologia / i'm a 21 year old brazillian student of the tech field
 
 🎓 - tenho ensino médio completo no Instituto Federal de Educação, Ciência e Tecnologia do Rio grande do Norte (IFRN) no curso técnico de Informática / i am a high school graduate at the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN) in the Informatics technical course;
 
@@ -12,7 +12,7 @@
 
 💻 - possuo certa experiência com C++ (média), HTML5 (média), MySQL (média), JavaScript (média), TypeScript (média), Linux (mínima/média), Unity (mínima/média), CSS3 (mínima/média), C# (mínima) e Python (mínima) / i have a certain experience with C++ (medium), HTML5 (medium), MySQL (medium), JavaScript (medium), TypeScript (medium), Linux (minor/medium), Unity (minor/medium), CSS3 (minor/medium), C# (minor) and Python (minor);
 
-💡 - estou interessado em aprender sobre desenvolvimento de jogos e/ou desenvolvimento back-end/front-end / i'm interested in learning about game development and/or back-end/front-end development;
+💡 - estou interessado em aprender sobre desenvolvimento de jogos, desenvolvimento back-end/front-end e sistemas embarcados/ i'm interested in learning about game development, back-end/front-end development and embedded systems;
 
 ## 🌐minhas redes sociais / my social networks
 
